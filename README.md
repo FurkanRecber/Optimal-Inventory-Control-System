@@ -19,7 +19,7 @@ Before running the project, ensure you have the following installed:
 ## How to Run
 #### 1. Clone the repository:
 ```
-git clone https://github.com/furkanrecber/Optimal-Inventory-Control-System.git
+git clone https://github.com/FurkanRecber/Optimal-Inventory-Control-System.git
 cd Optimal-Inventory-Control-System
 ```
 
@@ -51,6 +51,3 @@ java -jar target/OptimalInventoryControlSystem.jar
 
 #### Contributing
 If you'd like to contribute, fork the repository and submit a pull request.
-
-#### License
-This project is licensed under the MIT License - see the LICENSE file for details.
